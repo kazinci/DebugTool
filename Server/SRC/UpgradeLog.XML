@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Minimized">
+</Property><Property Name="Solution File" Value="E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Minimized.sln">
+</Property><Property Name="User Options File" Value="E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Minimized.suo">
+</Property><Property Name="Date" Value="19 марта 2014 г.">
+</Property><Property Name="Time" Value="14:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Minimized.sln" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\Minimized.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Minimized.suo" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\Minimized.suo">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="MinimizedProgram.csproj" Description="Project file successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\MinimizedProgram.csproj">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="MinimizedProgram.csproj.user" Description="Project user file successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\MinimizedProgram.csproj.user">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="FileMonitor.cs" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\FileMonitor.cs">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="Form2.cs" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\Form2.cs">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="App.ico" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="user32.dll" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\user32.dll">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="FileMonitor.resx" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\FileMonitor.resx">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="Form2.resx" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\WindowsApplication2\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="MinimizedProgram.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MinimizedProgram" Source="MinimizedProgram.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Minimized.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Minimized.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MinimizedProgram" Source="MinimizedProgram.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

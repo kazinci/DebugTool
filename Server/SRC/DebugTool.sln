@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTool_Server", "DebugTool_Server.csproj", "{13523E4C-165B-4E85-9F88-A11EA6357453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugTool_Client", "..\DebugTool_Client\DebugTool_Client.csproj", "{EECC2D0B-8BB3-446A-9362-D76E58EC6AAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13523E4C-165B-4E85-9F88-A11EA6357453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13523E4C-165B-4E85-9F88-A11EA6357453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13523E4C-165B-4E85-9F88-A11EA6357453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13523E4C-165B-4E85-9F88-A11EA6357453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECC2D0B-8BB3-446A-9362-D76E58EC6AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECC2D0B-8BB3-446A-9362-D76E58EC6AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECC2D0B-8BB3-446A-9362-D76E58EC6AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECC2D0B-8BB3-446A-9362-D76E58EC6AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

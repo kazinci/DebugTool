@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileMonitor" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="backupFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\192.168.150.2\c$\ERR_FILES</Value>
+    </Setting>
+    <Setting Name="checkInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="useLog" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="sourceDir1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\boards</Value>
+    </Setting>
+    <Setting Name="sourceDir2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\projects</Value>
+    </Setting>
+    <Setting Name="autoClickAndCopy" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

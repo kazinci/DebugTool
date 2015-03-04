@@ -1,0 +1,25 @@
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\bin\Debug\Error file reader.exe.config
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\Error file reader.exe
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\Error file reader.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\bin\Debug\Error file reader.exe
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\bin\Debug\Error file reader.pdb
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\ResolveAssemblyReference.cache
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\Error_file_reader.MainWindow.resources
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\GenerateResource.read.1.tlog
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+e:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Debug\GenerateResource.write.1.tlog
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio 2010\Projects\DebugTool_Client\bin\Debug\Error file reader.exe.config
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio 2010\Projects\DebugTool_Client\obj\Debug\Error file reader.exe
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio 2010\Projects\DebugTool_Client\obj\Debug\Error file reader.pdb
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\bin\Debug\Error file reader.exe.config
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\bin\Debug\Error file reader.exe
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\bin\Debug\Error file reader.pdb
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\ResolveAssemblyReference.cache
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\Error_file_reader.MainWindow.resources
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\GenerateResource-ResGen.read.1.tlog
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\GenerateResource.read.1.tlog
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\GenerateResource-ResGen.write.1.tlog
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\GenerateResource.write.1.tlog
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\Error file reader.exe
+e:\!C#\!DebugTool(GILAT)\DebugTool_Client\obj\Debug\Error file reader.pdb

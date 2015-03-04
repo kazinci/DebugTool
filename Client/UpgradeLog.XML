@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Error file reader">
+</Property><Property Name="Solution File" Value="E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Error file reader.sln">
+</Property><Property Name="User Options File" Value="E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Error file reader.suo">
+</Property><Property Name="Date" Value="1 апреля 2014 г.">
+</Property><Property Name="Time" Value="16:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Error file reader.sln" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\Error file reader.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Error file reader.suo" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\Error file reader.suo">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="Error file reader.csproj" Description="Project file successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\Error file reader.csproj">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="Error file reader.csproj.user" Description="Project user file successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\Error file reader.csproj.user">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="Form1.cs" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="App.ico" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="Form1.resx" Description="File successfully backed up as E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\Error file reader\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="Error file reader.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Error file reader" Source="Error file reader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Error file reader.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Error file reader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Error file reader" Source="Error file reader.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

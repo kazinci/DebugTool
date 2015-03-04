@@ -1,0 +1,9 @@
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\bin\Release\Error file reader.exe.config
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\bin\Release\Error file reader.exe
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\ResolveAssemblyReference.cache
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\Error_file_reader.MainWindow.resources
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\GenerateResource.read.1.tlog
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\GenerateResource.write.1.tlog
+E:\Documents and Settings\Kazo\Мои документы\Visual Studio Projects\DebugTool_Client\obj\Release\Error file reader.exe
