@@ -808,9 +808,9 @@ namespace Error_file_reader
                             }
                         }
                         string[] aplFilesArray;
-                        aplFilesArray = Directory.GetFiles(String.Concat(Path.GetDirectoryName(file), @"\APL"));//osszes apl file a konyvtarban
+                        aplFilesArray = Directory.GetFiles(String.Concat(Path.GetDirectoryName(file), @"\APL"));//all apl file in the directory
                         string[] fileNameItems = Path.GetFileName(file).Split('-');
-                        string aplToFind = Path.GetFileNameWithoutExtension(fileNameItems.Last());//pl. DDR2_1gb3
+                        string aplToFind = Path.GetFileNameWithoutExtension(fileNameItems.Last());//for example DDR2_1gb3
 
                         foreach (string aplFile in aplFilesArray)
                         {
@@ -854,7 +854,7 @@ namespace Error_file_reader
                 //Console.WriteLine(vectorRow);
                 string[] vectorRowItems = vectorRow.Split(' ');
                 string vectorStartPoint = String.Empty;
-                for (int i = 1; i < vectorRowItems.Length; ++i)//megkeressuk a legelso elemet (a "VECTOR"-t kihagyjuk)
+                for (int i = 1; i < vectorRowItems.Length; ++i)//find 1st item (skip "VECTOR")
                     if (vectorRowItems[i].Length > 0)
                     {
                         vectorStartPoint = vectorRowItems[i];
@@ -909,12 +909,12 @@ namespace Error_file_reader
             aplBox2.Items.Clear();            
         }
 
-		private void sourceDirBtn_Click(object sender, System.EventArgs e)//kinyitja a szerveren a konyvtarat
+		private void sourceDirBtn_Click(object sender, System.EventArgs e)// opens directory on the server
 		{
 			fileOpener(sourceDirBox.Text);			
 		}
 
-		private void snBox_TextChanged(object sender, System.EventArgs e)//magatol megnyomja a gombot, ha SN beszkennelodik
+		private void snBox_TextChanged(object sender, System.EventArgs e)// push searchBtn, if SN is scanned
 		{
 			if (snBox.TextLength == snBox.MaxLength)
 			{
@@ -928,7 +928,7 @@ namespace Error_file_reader
                 searchBtn.PerformClick();
         }
 
-        private void MainWindow_FormClosing(object sender, FormClosingEventArgs e)//biztos bezarja?
+        private void MainWindow_FormClosing(object sender, FormClosingEventArgs e)// Close Window?
         {
             if (MessageBox.Show("Close Window?", "Close", MessageBoxButtons.YesNo) != DialogResult.Yes)
                 e.Cancel = true;
